@@ -1,0 +1,21 @@
+﻿ID,Name,Branch,City,CGPA
+1,THOMAS,Computer Engineering,Delhi,6.6
+2,JAMES,EC Engineering,Mumbai,7.7
+3,JACK,Civil Engineering,Ahmedabad,8.8
+4,DANIEL,Mechanical Engineering,Bangalore,9.9
+5,,IC Engineering,Chennai,5.5
+6,,Computer Engineering,Surat,6.5
+7,JOSHUA,EC Engineering,Pune,7.5
+8,LUKE,Civil Engineering,Ahmedabad,8.5
+9,SAMUEL,Mechanical Engineering,Junagadh,9.5
+10,JORDAN,,Prayagraj,4.5
+11,ADAM,,Lucknow,5.6
+12,MICHAEL,EC Engineering,Jaipur,6.7
+13,ALEXANDER,Civil Engineering,Cawnpore,7.8
+14,CHRISTOPHER,Mechanical Engineering,Mirzāpur,8.9
+15,BENJAMIN,IC Engineering,,10
+16,JOSEPH,Civil Engineering,,7.6
+17,LIAM,Mechanical Engineering,Vadodara,8.7
+18,JAKE,IC Engineering,Vishākhapatnam,9.8
+19,WILLIAM,Computer Engineering,Indore,
+20,ANDREW,EC Engineering,Thāne,
